@@ -1,12 +1,12 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Tum meri Khushi ki wajah ho, Boore wakt me bhi 😊", 
+        text: "Tum meri Khushiyon ki ek wajah ho, Boore wakt me bhi 😊", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "Tumari Hansi se esa lagta he ki jee raha hu 🙈💗 ", 
+        text: "Tumari Hansi se esa lagta he ki jinda hu, Bhut pyaari hansi he tumari 🙈💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Dil saaf he tum, Dil se sochti ho tüm", 
+        text: "Dil saaf he tumara aur billi ho tum😺", 
         emoji: "🚀",
         gif: "gif2.gif"
     }
