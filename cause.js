@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Tum meri Khushiyon ki ek wajah ho, Boore wakt me bhi 😊", 
+        text: "Mera koi bhai nahi he islie bhabi ni ban skti family me 🥲", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "Tumari Hansi se esa lagta he ki jinda hu, Bhut pyaari hansi he tumari 🙈💗 ", 
+        text: "Ap ka dil bhot saaf he 🙈💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii pyaari si bacchi ho tum isliyee, hehehe 💕", 
+        text: "Aap pyaari si bachhi ho isliyee, hehehe 💕", 
         emoji: "👂",
         gif: "gif1.gif"
     },
     { 
-        text: "Dil saaf he tumara aur billi ho tum😺", 
+        text: "Aap bhot caring ho aur pyaar krti ho 😺", 
         emoji: "🚀",
         gif: "gif2.gif"
     }
